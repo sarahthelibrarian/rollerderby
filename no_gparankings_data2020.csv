@@ -1,0 +1,368 @@
+year,rank,league,weight
+2020,1,Rose City,10.42
+2020,2,Victoria,8.42
+2020,3,Gotham,8.29
+2020,4,Denver,7.99
+2020,5,Arch Rival,7.98
+2020,6,Montréal,6.29
+2020,7,Texas,6.25
+2020,8,Angel City,6.08
+2020,9,Philly,5.96
+2020,10,Rainy City,5.40
+2020,11,2 x 4,5.28
+2020,12,Helsinki,5.15
+2020,13,Crime City,5.12
+2020,14,Canberra,5.06
+2020,15,Santa Cruz,4.90
+2020,16,Rat City,4.86
+2020,17,Jacksonville,4.79
+2020,18,London,4.71
+2020,19,Atlanta,4.68
+2020,20,Windy City,4.63
+2020,21,Bay Area,4.41
+2020,22,Arizona,4.31
+2020,23,Queen City,4.17
+2020,24,Bear City,4.14
+2020,25,Stockholm,4.11
+2020,26,Paris,3.97
+2020,27,Ann Arbor,3.95
+2020,28,Sailor City,3.86
+2020,29,Sun State,3.82
+2020,30,Dock City,3.72
+2020,31,Calgary,3.72
+2020,32,Houston,3.68
+2020,33,Dublin,3.64
+2020,34,Detroit,3.53
+2020,35,Lomme,3.51
+2020,36,Boston,3.43
+2020,37,Kallio,3.42
+2020,38,E-Ville,3.32
+2020,39,Minnesota,3.30
+2020,40,Rocky Mountain,3.26
+2020,41,Naptown,3.24
+2020,42,Columbia QS,3.17
+2020,43,Jet City,3.15
+2020,44,Happy Valley,3.14
+2020,45,Blue Ridge,3.14
+2020,46,Antwerp,3.04
+2020,47,Madison,3.02
+2020,48,Des Moines,3.02
+2020,49,Middlesbrough,3.02
+2020,50,Auld Reekie,2.99
+2020,51,Sacramento,2.97
+2020,52,Tiger Bay,2.90
+2020,53,Tampa,2.89
+2020,54,Central City,2.88
+2020,55,North Star,2.84
+2020,56,Tri-City,2.79
+2020,57,Perth,2.78
+2020,58,Adelaide,2.72
+2020,59,Ohio,2.70
+2020,60,Royal City,2.68
+2020,61,Gem City,2.63
+2020,62,Toronto,2.62
+2020,63,Red Stick,2.61
+2020,64,No Coast,2.57
+2020,65,Dub City,2.55
+2020,66,Roc City,2.42
+2020,67,Cincinnati,2.30
+2020,68,Ottawa Valley,2.29
+2020,69,Steel City,2.21
+2020,70,Classic City,2.20
+2020,71,Grand Raggidy,2.20
+2020,72,Madrid,2.20
+2020,73,Rage City,2.19
+2020,74,OK Victory,2.11
+2020,75,Connecticut,2.11
+2020,76,Birmingham,2.10
+2020,77,Nottingham,2.10
+2020,78,Amsterdam,2.09
+2020,79,Assassination,2.07
+2020,80,Brewcity,2.05
+2020,81,Providence,2.05
+2020,82,Pirate City,2.04
+2020,83,V Town,2.03
+2020,84,Gold Coast,2.02
+2020,85,Wasatch,1.94
+2020,86,Oslo,1.94
+2020,87,Kansas City,1.93
+2020,88,DC,1.92
+2020,89,Penn Jersey,1.87
+2020,90,Crossroads,1.87
+2020,91,Tucson,1.84
+2020,92,Charlottesville,1.84
+2020,93,Rebellion,1.83
+2020,94,Dallas,1.82
+2020,95,Grtr Vancouver,1.81
+2020,96,Brandywine,1.79
+2020,97,10th Mountain,1.77
+2020,98,Brussels,1.76
+2020,99,Appalachian,1.75
+2020,100,Pikes Peak,1.74
+2020,101,Maine,1.71
+2020,102,Twin State,1.71
+2020,103,West Virginia,1.70
+2020,104,Humboldt,1.68
+2020,105,Duke City,1.63
+2020,106,Big Easy,1.63
+2020,107,Downriver,1.63
+2020,108,Bradentucky,1.62
+2020,109,Nashville,1.62
+2020,110,Sydney,1.59
+2020,111,Cherry City,1.59
+2020,112,Charlotte,1.58
+2020,113,Garden State,1.57
+2020,114,Kalamazoo,1.57
+2020,115,Québec,1.55
+2020,116,Paris Quads,1.53
+2020,117,Chattanooga,1.52
+2020,118,Bay State,1.51
+2020,119,Fort Myers,1.49
+2020,120,FOCO,1.48
+2020,121,Fox Cities,1.46
+2020,122,Durham,1.45
+2020,123,SoCal,1.45
+2020,124,Charm City,1.45
+2020,125,Dead End,1.43
+2020,126,Black Rose,1.43
+2020,127,Whakatane,1.42
+2020,128,Baja,1.42
+2020,129,Namur,1.40
+2020,130,Boulder County,1.39
+2020,131,Lehigh Valley,1.39
+2020,132,Bellingham,1.39
+2020,133,Tragic City,1.39
+2020,134,Mother State,1.38
+2020,135,Nantes,1.38
+2020,136,Richter City,1.37
+2020,137,Coast Assassin,1.34
+2020,138,Newcastle UK,1.33
+2020,139,Muddy River,1.32
+2020,140,San Fernando,1.31
+2020,141,Eves Destruct,1.30
+2020,142,Confluence,1.29
+2020,143,Magic City,1.27
+2020,144,Greensboro,1.26
+2020,145,Tampere,1.25
+2020,146,Flint,1.25
+2020,147,Bux-Mont,1.23
+2020,148,Old Cap City,1.22
+2020,149,Twin Valleys,1.20
+2020,150,North Texas,1.20
+2020,151,Fernie,1.19
+2020,152,Norrköping,1.19
+2020,153,Akron,1.18
+2020,154,Gorge,1.18
+2020,155,Copenhagen,1.18
+2020,156,Naughty Pines,1.18
+2020,157,Reading,1.16
+2020,158,Northside,1.16
+2020,159,Fayetteville,1.15
+2020,160,Lutèce,1.13
+2020,161,Vette City,1.13
+2020,162,Anchor City,1.12
+2020,163,Hellions Troy,1.11
+2020,164,Convict City,1.11
+2020,165,Chippewa,1.11
+2020,166,Rocket City,1.09
+2020,167,Palouse River,1.09
+2020,168,DuPage,1.08
+2020,169,Dark River,1.07
+2020,170,Hartford,1.07
+2020,171,Cornfed,1.07
+2020,172,Dunedin,1.07
+2020,173,Twin City IL,1.06
+2020,174,Dirty River,1.06
+2020,175,Bakersfld Diam,1.06
+2020,176,Rockin' City,1.05
+2020,177,Winnipeg,1.05
+2020,178,Lowcountry,1.04
+2020,179,Treasure Vall,1.04
+2020,180,Western Aus,1.04
+2020,181,Panhandle,1.04
+2020,182,Zürich City,1.02
+2020,183,Dundee,1.00
+2020,184,Burning River,1.00
+2020,185,Dockyard,1.00
+2020,186,Orlando,1.00
+2020,187,RGV Bandidas,1.00
+2020,188,Cape Fear,0.99
+2020,189,Free State,0.98
+2020,190,High Altitude,0.98
+2020,191,Quad City,0.97
+2020,192,Saskatoon,0.96
+2020,193,Storm City,0.96
+2020,194,Mason-Dixon,0.95
+2020,195,Vienna,0.93
+2020,196,Demolition,0.93
+2020,197,Vicenza,0.92
+2020,198,Salt City,0.92
+2020,199,Caen,0.91
+2020,200,Peach State,0.91
+2020,201,Carolina,0.89
+2020,202,Gallatin,0.89
+2020,203,Leeds,0.89
+2020,204,Barcelona,0.88
+2020,205,River City,0.87
+2020,206,Traverse City,0.87
+2020,207,Sonoma County,0.86
+2020,208,Sierra Region,0.86
+2020,209,South Coast,0.85
+2020,210,Ft. Wayne,0.85
+2020,211,Liverpool,0.85
+2020,212,Dresden,0.85
+2020,213,Circle City,0.85
+2020,214,Gainesville,0.84
+2020,215,Acadiana,0.84
+2020,216,Glasgow,0.84
+2020,217,NW Arkansas,0.83
+2020,218,Capital City,0.83
+2020,219,New Jersey,0.83
+2020,220,CoMo,0.82
+2020,221,Sitka Sound,0.82
+2020,222,Hard Knox,0.81
+2020,223,Little Steel,0.81
+2020,224,Kingston,0.81
+2020,225,Bisman,0.80
+2020,226,Tallahassee,0.80
+2020,227,Swansea City,0.79
+2020,228,Springfield,0.79
+2020,229,Rock Town,0.79
+2020,230,Prairieland,0.78
+2020,231,West Texas,0.78
+2020,232,Monterey Bay,0.77
+2020,233,Alamo City,0.77
+2020,234,Ruhrpott,0.77
+2020,235,Lilac City,0.76
+2020,236,West Coast,0.76
+2020,237,WB-Scranton,0.76
+2020,238,Echo City,0.75
+2020,239,Lansing,0.75
+2020,240,Salisbury,0.75
+2020,241,Rated PG,0.75
+2020,242,El Paso,0.75
+2020,243,Shasta,0.74
+2020,244,Ithaca,0.74
+2020,245,Aurora 88s,0.74
+2020,246,301,0.74
+2020,247,Dominion,0.73
+2020,248,Dutchland,0.73
+2020,249,ICT,0.72
+2020,250,Stuttgart,0.72
+2020,251,MedCity,0.72
+2020,252,Green Mountain,0.72
+2020,253,Cen Kentucky,0.70
+2020,254,NOVA,0.70
+2020,255,Mass Attack,0.70
+2020,256,Mid-State,0.69
+2020,257,York City,0.68
+2020,258,Boom Town,0.68
+2020,259,Beach Cities,0.68
+2020,260,Savannah,0.67
+2020,261,Yellow Rose,0.67
+2020,262,State College,0.66
+2020,263,Royal Swedish,0.66
+2020,264,Portneuf,0.66
+2020,265,Maui,0.66
+2020,266,Muscogee,0.65
+2020,267,Rotterdam,0.65
+2020,268,Suburbia,0.65
+2020,269,Hammer City,0.65
+2020,270,Hulls Angels,0.65
+2020,271,South Delaware,0.65
+2020,272,Bordeaux,0.65
+2020,273,Marmots,0.64
+2020,274,Chicago Outfit,0.64
+2020,275,Eindhoven,0.64
+2020,276,Munich,0.64
+2020,277,Forest City,0.64
+2020,278,Roughneck,0.64
+2020,279,Brighton,0.64
+2020,280,Morgantown,0.64
+2020,281,Richland Co,0.64
+2020,282,Jackson Hole,0.63
+2020,283,Fog City,0.63
+2020,284,Fredericksburg,0.63
+2020,285,Central Coast,0.63
+2020,286,South Shore,0.63
+2020,287,Cologne,0.62
+2020,288,IE Derby,0.62
+2020,289,Barbed Wire,0.62
+2020,290,Enchanted Mtn,0.62
+2020,291,Albany US,0.61
+2020,292,Jersey Shore,0.61
+2020,293,Dirty Jersey,0.61
+2020,294,Renegade,0.61
+2020,295,Emerald City,0.60
+2020,296,Central NY,0.59
+2020,297,NW Derby,0.59
+2020,298,Panters,0.59
+2020,299,Twin City LA,0.59
+2020,300,Rockford Rage,0.59
+2020,301,Northern Arizona,0.59
+2020,302,Roe City,0.58
+2020,303,Ventura,0.58
+2020,304,Sin City,0.57
+2020,305,Rainy City,0.57
+2020,306,Faultline,0.56
+2020,307,Derby City,0.56
+2020,308,Kent,0.56
+2020,309,New Hampshire,0.56
+2020,310,So Illinois,0.55
+2020,311,Cajun,0.55
+2020,312,Go-Go Gent,0.55
+2020,313,Beet City,0.54
+2020,314,Pensacola,0.54
+2020,315,Battle Creek,0.54
+2020,316,SO Derby,0.53
+2020,317,B.M.O.,0.53
+2020,318,Dom City,0.53
+2020,319,Dead River,0.53
+2020,320,580,0.53
+2020,321,Spindletop,0.53
+2020,322,London Rockin,0.52
+2020,323,Belfast,0.52
+2020,324,St. Pauli,0.52
+2020,325,SINtral Valley,0.50
+2020,326,Rodeo City,0.50
+2020,327,Pacific,0.50
+2020,328,Little City,0.50
+2020,329,Sheffield,0.50
+2020,330,Granite State,0.50
+2020,331,Eerie,0.50
+2020,332,Wine Town,0.50
+2020,333,San Diego,0.50
+2020,334,Hogtown,0.50
+2020,335,Peninsula,0.50
+2020,336,Garden Island,0.50
+2020,337,Undead,0.50
+2020,338,Memphis,0.50
+2020,339,Aalborg,0.50
+2020,340,Harrisburg,0.50
+2020,341,Black n Blue,0.50
+2020,342,Hell's Orchard,0.50
+2020,343,Okinawa,0.50
+2020,344,Long Island,0.50
+2020,345,Ohio Valley,0.50
+2020,346,Los Alamos,0.50
+2020,347,Keweenaw,0.50
+2020,348,Limerick,0.50
+2020,349,Lava City,0.50
+2020,350,Dolly Rockit,0.50
+2020,351,South Bend,0.50
+2020,352,Black Diamond,0.50
+2020,353,Diamond State,0.50
+2020,354,St. Chux,0.50
+2020,355,Iceland,0.50
+2020,356,Two Rivers,0.50
+2020,357,Lafayette,0.50
+2020,358,Northern Brisbane,0.50
+2020,359,Soul City,0.50
+2020,360,Molly Roger,0.50
+2020,361,Slaughterhouse,0.50
+2020,362,Gothenburg,0.50
+2020,363,Hurricane,0.50
+2020,364,Whidbey,0.50
+2020,365,Miss Valley,0.50
+2020,366,Kaiserslautern,0.50
+2020,367,Rough Diamond,0.50
